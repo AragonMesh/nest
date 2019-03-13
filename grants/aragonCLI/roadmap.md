@@ -1,12 +1,14 @@
 # Abstract Roadmap
-### Short-term
+
+## Short-term
 
 What brings the most value to developers right now?
 
 To figure this out, we need to be active in the #dev-help channel and on GitHub, assist people in debugging their DevOps problems, which seems to be the responsibility of the CLI (automating all the logistics of setting up, publishing, etc. so they can focus on the app-specific code).
 
 Obviously we don’t want to end up in a situation where we are always chasing bugs, which is why a significant effort should go into creating test cases - so that we don’t fix a bug twice.
-### Long-term
+
+## Long-term
 
 How would these tools look like in a few years? How should they?
 
@@ -22,7 +24,8 @@ Verbose logging
 Legibility and stability first, performance-second
 In-depth guides
 Short code snippets for the most common workflows (e.g.: creating a token & configuring a token-manager)
-### Medium-term
+
+## Medium-term
 
 How would a roadmap to achieve our long-term goals look like?
 
