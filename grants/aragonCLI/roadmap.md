@@ -26,7 +26,7 @@ Short code snippets for the most common workflows (e.g.: creating a token & conf
 
 How would a roadmap to achieve our long-term goals look like?
 
-We started working on [specific roadmap items on aragonCLI repo](https://github.com/aragon/aragon-cli/blob/master/ROADMAP.md).
+We started working on [specific roadmap items on aragonCLI repository](https://github.com/aragon/aragon-cli/blob/master/ROADMAP.md).
 
 The roadmap should be a "living" document on which we collaborate together with the Aragon community. We should be the facilitators of the conversation and figure out how to capture the feedback of Aragon devs. What are the pains they have? Besides writing app-specific code, what takes most of their time? What would they like to see implemented? Which aragon command they found confusing/annoying?
 
